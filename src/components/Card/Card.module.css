@@ -1,0 +1,26 @@
+.container{
+    border: 5px solid hsl(152, 71%, 35%);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px srgba(255, 0, 0, 0.2);
+    padding: 20px;
+    background-color: rgb(20, 98, 51);
+    text-align: center;
+    width: 10cm ;
+  }
+.closeButton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
